@@ -8,7 +8,7 @@ Our goal is to advance trustworthy software systems by integrating modern progra
 
 ## Support
 
-The TrustC Project is supported by **Qiyuan Lab**, **Tsinghua University**, and collaborating academic and industrial partners.
+The TrustC Project is supported by **Qiyuan Lab**, and collaborating academic and industrial partners.
 
 ## License
 
